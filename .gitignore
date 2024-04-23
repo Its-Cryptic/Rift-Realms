@@ -2,3 +2,7 @@
 .curseclient
 minecraftinstance.json
 profileImage
+saves
+logs
+usercache.json
+usernamecache.json
