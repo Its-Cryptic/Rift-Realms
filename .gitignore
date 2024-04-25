@@ -1,8 +1,7 @@
-#
-.curseclient
-minecraftinstance.json
-profileImage
-saves
-logs
-usercache.json
-usernamecache.json
+# Ignore everything
+*
+# But descend into directories
+!*/
+# Recursively allow files under subtree
+!/mods/**
+commitToGit.bat
