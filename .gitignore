@@ -1,7 +1,8 @@
 # Ignore everything
 *
-# But descend into directories
-!*/
-# Recursively allow files under subtree
-!/mods/**
-commitToGit.bat
+
+# But not these files...
+!.gitignore
+!mods/
+!mods/*
+!commit.bat
