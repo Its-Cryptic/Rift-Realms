@@ -3,6 +3,13 @@
 
 # But not these files...
 !.gitignore
+!commit.bat
+
 !mods/
 !mods/*
-!commit.bat
+
+!config/
+!config/**
+
+!defaultconfigs/
+!defaultconfigs/**
