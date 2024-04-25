@@ -13,3 +13,6 @@
 
 !defaultconfigs/
 !defaultconfigs/**
+
+!kubejs/
+!kubejs/**
